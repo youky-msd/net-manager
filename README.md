@@ -1,4 +1,4 @@
-# net-manager2
+# net-manager-vue
 
 > A Vue.js project
 
